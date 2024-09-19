@@ -1,7 +1,7 @@
 ///change content of <loginFooterText>, it is enough for branding options to be open in Administration->Login as of Fall '24
 <?xml version="1.0" encoding="UTF-8"?>
 <NetworkBranding xmlns="http://soap.sforce.com/2006/04/metadata">
-    <loginFooterText>Choice Gmbh</loginFooterText>
+    <loginFooterText>Something Gmbh</loginFooterText>
     <loginPrimaryColor>#1797C0</loginPrimaryColor>
     <loginQuaternaryColor>#B1BAC1</loginQuaternaryColor>
     <network>PartnerLWR</network>
